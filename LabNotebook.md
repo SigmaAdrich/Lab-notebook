@@ -10,7 +10,7 @@
 2. Ploymer2 and P3HT absorbance in high voltage.
 3. Drawing with data.
 
-##2016.10.16
+##2016.10.17
 1.Discuss with Qin and XuXiaoxiang about thesis topic.  
 2.Signing sonme invoices.  
 3.Give Qin the ACN DCB and Conductive silver paste. 
