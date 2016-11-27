@@ -16,7 +16,7 @@
 3.Give Qin the ACN DCB and Conductive silver paste. 
 
 ##2016.11.27
-1.Computer Network Course(25-36). http://www.bilibili.com/video/av4067799/
-2.Core Java Volume I-Fundamentals Page280-290
-3.IMOOC(http://www.imooc.com/) Studied six Lessons of Linux.
-4.Try to share the Docoument between Linux system and Windows system.(Fail)
+1.Computer Network Course(25-36). http://www.bilibili.com/video/av4067799/  
+2.Core Java Volume I-Fundamentals Page280-290  
+3.IMOOC(http://www.imooc.com/) Studied six Lessons of Linux.  
+4.Try to share the Docoument between Linux system and Windows system.(Fail)  
