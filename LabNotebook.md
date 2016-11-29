@@ -21,3 +21,5 @@
 3.IMOOC(http://www.imooc.com/) Studied six Lessons of Linux.  
 4.Try to share the Docoument between Linux system and Windows system.(Fail)  
 5.Two spaces are used for newline.(Forget)  
+##2016.11.28-29
+1.Learn Computer Network Course(36-59).
