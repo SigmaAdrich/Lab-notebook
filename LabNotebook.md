@@ -25,3 +25,6 @@
 1.Learn Computer Network Course(36-59).
 ##2016.11.28-29
 1.Learn Computer Network Course(59-68).all over  
+##2017.1.6
+1.Ingress upgrade to level 8.  About 10.am to 6.pm,get 500,000 XP，walked twenty kilometers.  
+2.Before come back to school.At the 902 station ,came across the JessicaOne who go to her hometown.  
