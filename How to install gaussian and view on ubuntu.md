@@ -3,7 +3,7 @@
 下载地址(http://pan.baidu.com/s/1i3oq79j) 密码：dd4s  
 有win linux 下的资源，很全，也有gaussion view的资源,我就漏看了，浪费了好多时间  
 打开linux文件夹，有好多版本，分别是09和03版的，很多种压缩包，我用的是gaosi09-D01.zip这个安装包  
-#####小白科普部分，大神跳过  
+###小白科普部分，大神跳过  
 讲道理呢，linux一般是用bz和.gz的安装包，不过我用的ubuntu16了，zip的也能解压。  
 还要注意你的系统是64位还是32位的，对应的要下载64位或32位的安装包。从压缩包的名字里的64或者32能鉴别出来。  
 ##gaussian安装    
@@ -21,6 +21,14 @@ source $g09root/g09/bsd/g09.profile    #G09环境变量设置
   
   
   这里会遇到各种问题，仔细看报错信息，一般都是找不到文件，或者权限不够，自己搜索基本都能解决，就是费事。
-
-
-
+##gaussian view的安装    
+1.过程基本上相同，解压后重命名为gview。  
+2.还是打开.bashrc文件，在最后添加  
+  export GV_DIR=/home/xp/gview   
+  export LIBPATH=/home/xp/gview   
+  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/xp/gview/lib   
+  PATH=$PATH:/home/xp/gview   
+  alias gv='gview.exe'  
+3.保存文件，退出  
+4.在命令行中运行source ~/.bashrc  
+5.重新登录下，在命令行中运行gv
