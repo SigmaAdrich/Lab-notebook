@@ -15,6 +15,7 @@
 7.买回来的药品和器材保存好发票，做好记录，哪些报销了哪些没报销心里有数  
 
 俄罗斯人建立的免费下载论文网站[http://www.sci-hub.cc/](http://www.sci-hub.cc/)  
+matplotlib-绘制精美的图表[http://old.sebug.net/paper/books/scipydoc/matplotlib_intro.html#](http://old.sebug.net/paper/books/scipydoc/matplotlib_intro.html#)  
 ### 做实验
 0.相信自己，实验出不来没啥大不了的，生活还是很美好的  
 1.白大褂常穿勤洗，不要穿拖鞋，保护脚面  
